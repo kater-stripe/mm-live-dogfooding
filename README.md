@@ -1,6 +1,6 @@
 # How to Run Your Jupyter Notebook
 
-## Option 1: Using Jupyter Notebook (Recommended for Beginners)
+## Option 1: Using Jupyter Notebook (Recommended)
 
 ### Installation
 
